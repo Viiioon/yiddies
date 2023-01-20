@@ -1,7 +1,4 @@
 # yiddies
 umeumeume
 
-MySQL
-Angular
-Git for Windows
-Spring
+MySQL, Angular, Git for Windows, Spring
